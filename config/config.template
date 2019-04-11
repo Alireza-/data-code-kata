@@ -1,0 +1,6 @@
+[FILE]
+SPEC_FILE = <spec-file>
+NO_OF_RECORDS = <no-of-rec>
+FIXED_WIDTH_FILE = <file-name-and-path>
+CSV_FILE = <file-name-and-path>
+DELIMITER = <delimiter>

@@ -1,0 +1,4 @@
+/venv
+.idea/
+core/__pycache__/
+/config/config.yml
