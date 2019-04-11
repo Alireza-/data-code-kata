@@ -15,3 +15,4 @@ DELIMITER = |
 ```
 - run the main file
 
+**NOTE** The fixed width file generator adds 2 whitespaces to each feild and breakline at the end of each record to make the output more readable.
